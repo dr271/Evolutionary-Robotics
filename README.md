@@ -3,4 +3,4 @@ I successfully bridged the Reality Gap in Evolutionary Robotics - evolving a neu
 
 This project achieved a 1st as the dissertation for my undergraduate degree in Computer Science with Artificial Intelligence
 
-Please note the original implementation of CMA-ES used was developed by Yarpiz. 
+Please note the original implementation of CMA-ES used was developed by Yarpiz.  
